@@ -1,0 +1,12 @@
+# Git commit history
+
+6165a2c Refactor GitHub Actions workflow for build and test
+a52ee2b idl
+bc57b8d Merge branch 'main' of https://github.com/RobbieSiev/TEMP
+e01565c m
+e20a2e3 Add build and test workflow badge to README
+6c64418 Add GitHub Actions workflow for build and test
+0ae3bcf jkkkk
+e11532f Update README.md
+7976e003 Create basic CI workflow with build job
+22081b7 Initial commit
