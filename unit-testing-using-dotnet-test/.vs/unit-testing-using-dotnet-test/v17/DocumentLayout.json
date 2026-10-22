@@ -1,7 +1,19 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rsiev\\source\\repos\\TEMP\\unit-testing-using-dotnet-test\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58FC97-61DE-414E-B4CB-3C3ED517B3AD}|PrimeService\\PrimeService.csproj|c:\\users\\rsiev\\source\\repos\\temp\\unit-testing-using-dotnet-test\\primeservice\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58FC97-61DE-414E-B4CB-3C3ED517B3AD}|PrimeService\\PrimeService.csproj|solutionrelative:primeservice\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0275F80C-582B-470C-BE32-2E0B70CDD70C}|PrimeService.Tests\\PrimeService.Tests.csproj|c:\\users\\rsiev\\source\\repos\\temp\\unit-testing-using-dotnet-test\\primeservice.tests\\primeservice_isprimeshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0275F80C-582B-470C-BE32-2E0B70CDD70C}|PrimeService.Tests\\PrimeService.Tests.csproj|solutionrelative:primeservice.tests\\primeservice_isprimeshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rsiev\\source\\repos\\TEMP\\.vs\\ProjectSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +21,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeService.cs",
+              "DocumentMoniker": "C:\\Users\\rsiev\\source\\repos\\TEMP\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.cs",
+              "RelativeDocumentMoniker": "PrimeService\\PrimeService.cs",
+              "ToolTip": "C:\\Users\\rsiev\\source\\repos\\TEMP\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.cs",
+              "RelativeToolTip": "PrimeService\\PrimeService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:48:10.967Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -22,6 +47,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeService_IsPrimeShould.cs",
+              "DocumentMoniker": "C:\\Users\\rsiev\\source\\repos\\TEMP\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "RelativeDocumentMoniker": "PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "ToolTip": "C:\\Users\\rsiev\\source\\repos\\TEMP\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "RelativeToolTip": "PrimeService.Tests\\PrimeService_IsPrimeShould.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:47:54.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectSettings.json",
+              "DocumentMoniker": "C:\\Users\\rsiev\\source\\repos\\TEMP\\.vs\\ProjectSettings.json",
+              "RelativeDocumentMoniker": "..\\.vs\\ProjectSettings.json",
+              "ToolTip": "C:\\Users\\rsiev\\source\\repos\\TEMP\\.vs\\ProjectSettings.json",
+              "RelativeToolTip": "..\\.vs\\ProjectSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T10:41:58.336Z",
+              "EditorCaption": ""
             }
           ]
         },
